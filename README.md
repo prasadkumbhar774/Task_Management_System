@@ -17,5 +17,4 @@
 ## Update Task
 ![image](https://user-images.githubusercontent.com/16411579/65078236-9c16a000-d96a-11e9-8b30-38f3bfd6d509.png)
 
-## Delete Task
-![image](https://user-images.githubusercontent.com/16411579/65078249-a33dae00-d96a-11e9-91fc-ec4190ffdb39.png)
+
